@@ -82,5 +82,6 @@ int main(){
         printf("Cavalo se moveu para direita");
         cavalo--;
     } 
-
+    
+    return 0;
 }
